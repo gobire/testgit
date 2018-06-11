@@ -42,7 +42,7 @@ or
 
 #now that our modifications on local directory are captured or staged by git, it is time to commit.
 
---> git commit -m "Add Readme.txt"	# it is important to start changes made in the commit, -m is for message followed by label in quotes
+--> git commit -m "Add Readme.txt"	# it is important to state changes made in the commit, -m is for message followed by label in quotes
  
 --> git log				#display information on commit and reference id for commit(s)
 or
@@ -57,6 +57,7 @@ or
 
 -->git push origin master	#master is the branch for now to receive the update as there is no other branch yet.
 
-#Done and updated! It is this simple. We will look at more operations.... Time to stage (add), commit (-m "Complete beginner Git Tutorial") and push this work
+#Done and updated! It is this simple. We will look at more operations.... Time to stage (add), commit (-m "Add complete beginner Git Tutorial")
+ and push this work
 
 
